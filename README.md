@@ -1,4 +1,4 @@
-# Kanishka Sharma Portfolio
+# Personal Portfolio Website
 
 ## Overview
 A responsive personal portfolio website built with HTML, CSS, and JavaScript designed to showcase my web development expertise, academic projects, and professional journey effectively. The website showcases her **skills, projects, experience, and contact information** in a modern, interactive, and visually appealing layout.  
